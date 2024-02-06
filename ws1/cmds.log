@@ -1,0 +1,65 @@
+    1  ls
+    2  passwd
+    3  clear
+    4  ls ..
+    5  clear
+    6  wget www.github.com
+    7  ls
+    8  cat index.html
+    9  clear
+   10  vi index.html
+   11  rm index.html
+   12  clear
+   13  ls ../..
+   14  clear
+   15  which git
+   16  which python
+   17  which python3
+   18  clear
+   19  exit
+   20  cd /
+   21  ls
+   22  ls datasets
+   23  ls home
+   24  ls home/gabrielf23
+   25  clear
+   26  cd ~
+   27  clear
+   28  mkdri files
+   29  mkdir files
+   30  ls
+   31  touch myfile
+   32  ls
+   33  vi myfile
+   34  cat myfile
+   35  cat myfile | grep :)
+   36  cat myfile | grep file
+   37  clear
+   38  mv myfile files
+   39  ls
+   40  ls files
+   41  clear
+   42  exit
+   43  pwd
+   44  clear
+   45  whoami
+   46  who
+   47  clear
+   48  clear
+   49  echo $SHELL
+   50  clear
+   51  which bash
+   52  which sh
+   53  which zsh
+   54  which fish
+   55  clear
+   56  wget www.github.com
+   57  ls
+   58  which git
+   59  clear
+   60  man git
+   61  mkdir cs131
+   62  cd cs131
+   63  git init
+   64  mkdir ws1
+   65  history > ws1/cmds.log
